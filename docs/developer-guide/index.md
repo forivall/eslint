@@ -1,3 +1,7 @@
+---
+title: ESLint
+layout: default
+---
 # Developer Guide
 
 This guide is intended for those who wish to:

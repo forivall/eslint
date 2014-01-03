@@ -1,3 +1,7 @@
+---
+title: ESLint
+layout: default
+---
 # Rules
 
 Rules in ESLint are divided into several categories to help you better understand their value. Additionally, not all rules are enabled by default. Those that are not enabled by default are marked as being off.

@@ -1,3 +1,7 @@
+---
+title: ESLint
+layout: default
+---
 # Home
 
 ## [About](about/)
