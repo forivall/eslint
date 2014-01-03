@@ -25,7 +25,7 @@ We want to accept your contribution. Following these guidelines helps to create 
     * 0.6.x
     * 0.8.x
     * 0.10.x
-* Follow the [Code Conventions](code-conventions.md).
+* Follow the [Code Conventions](code-conventions.html).
 
 ## New Rules
 
@@ -37,7 +37,7 @@ Once you've written a rule, you can decide whether the rule is generic enough to
     1. The use case for the rule - what is it trying to prevent or flag?
     2. Why you believe this rule is generic enough to be included in the main distribution
     3. Whether the rule should be on or off by default.
-    4. Documentation for the rule (see [no-console](../rules/no-console.md) as an example). Put this documentation directly into the pull request.
+    4. Documentation for the rule (see [no-console](../rules/no-console.html) as an example). Put this documentation directly into the pull request.
 
 Keep in mind that not all rules will be accepted for the main distribution. You may also request that your rule by on by default but we may accept it as off by default.
 
