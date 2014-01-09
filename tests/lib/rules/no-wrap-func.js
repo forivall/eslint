@@ -16,6 +16,8 @@ var eslintTester = require("../../../lib/tests/eslintTester");
 eslintTester.addRuleTest("no-wrap-func", {
     valid: [
         "(function() {})()",
+        "(function() {}).apply(this)",
+        "(function() {}).call(this)",
         "var a = function() {}",
         "new Object(function() {})"
     ],
